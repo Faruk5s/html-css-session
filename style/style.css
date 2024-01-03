@@ -1,3 +1,13 @@
 h1{
     color:green;
+    text-align: center;
+    margin-top: 60px;
+}
+.hero{
+    color: red;
+    background-image: url("../img/1.jpg");
+    /* background-size:80%; */
+    height: 100svb;
+    background-position: bottom center;
+    
 }
